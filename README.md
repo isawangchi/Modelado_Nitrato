@@ -1,1 +1,1 @@
-Este es código para el modelado de la concentración de nitrato de mi TFM 'Análisis Predictivo de la Concentración de Nitrato en el Agua de Consumo en España'
+Este es el desarrollo de código en Python para el modelado de la concentración de nitrato en agua de consumo de mi TFM 'Análisis Predictivo de la Concentración de Nitrato en el Agua de Consumo en España'.
